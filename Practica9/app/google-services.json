@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "540170195629",
+    "firebase_url": "https://practica9-9a549-default-rtdb.firebaseio.com",
+    "project_id": "practica9-9a549",
+    "storage_bucket": "practica9-9a549.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540170195629:android:1eec6b244467870a1d2c24",
+        "android_client_info": {
+          "package_name": "icedo.hector.practica9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAljogDWSrmEflNSRjkAf0rjYTK1NSrPaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
